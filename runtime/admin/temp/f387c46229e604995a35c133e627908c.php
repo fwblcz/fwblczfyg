@@ -1,4 +1,4 @@
-<?php /*a:1:{s:59:"E:\wamp64\www\web\tpcrmeb312\app\admin\view\login\index.php";i:1573036669;}*/ ?>
+<?php /*a:1:{s:59:"E:\wamp64\www\web\tpcrmeb312\app\admin\view\login\index.php";i:1577333654;}*/ ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +22,7 @@
 <div class="middle-box text-center loginscreen  animated fadeInDown">
     <div class="login-group">
         <h3 class="login-logo">
-            <img src="/system/images/logo.png">
+            <img src="/system/images/logob.png">
         </h3>
         <form role="form" action="<?php echo url('verify'); ?>" method="post" id="form" onsubmit="return false">
             <div class="form-group">
